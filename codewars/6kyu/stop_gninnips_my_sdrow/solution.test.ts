@@ -18,7 +18,7 @@ describe("# Stop ninnipS My sdroW!", () => {
   });
 
   context("Boundary conditions", () => {
-    it(`spinWords("Hello") => "olloH"`, () => {
+    it(`spinWords("Hello") => "olleH"`, () => {
       test("Hello", "olleH");
     });
 
